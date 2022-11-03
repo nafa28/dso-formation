@@ -34,7 +34,7 @@ L'objectif du guide pratique est de centraliser l’ensemble des ressources néc
 - Illustre les étapes du montage et de la gestion d'un projet
 - Expose des ressourcesd'autoformation pour chaque étape
 
-
+loli
 
 ## Parcours spécifiques
 ### Parcours "équipes projet": développeurs, architectes solution, intégrateurs...
